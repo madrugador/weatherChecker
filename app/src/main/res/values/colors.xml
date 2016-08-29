@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="brown">#663300</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darker_gray">#666666</color>
+    <color name="darkgoldenrod">#E8A317</color>    
+    <color name="forest_green">#228B22</color>
+    <color name="grey">#808080</color>
+    <color name="green">#008000</color>   
+    <color name="lightblue">#C0D9D9</color>
+    <color name="lighter_grey">#DDDDDD</color>
+    <color name="lightgreen">#00EE00</color>
+    <color name="lightgrey">#A9A9A9</color>
+    <color name="lightyellow">#FFFF66</color>
+    <color name="money_green">#00AD00</color>
+    <color name="money_red">#EB0000</color>
+    <color name="opaque_blue">#000FFF</color>
+    <color name="opaque_red">#B82500</color>
+    <color name="orange">#FF6600</color>
+    <color name="purple">#800080</color>
+    <color name="red">#F00000</color>
+    <color name="sandy">#FFF380</color>
+    <color name="sienna">#F87431</color>
+    <color name="standard_orange">#FF9900</color>
+    <color name="translucent_red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+
+    <color name="transparent">#00000000</color>
+    
+    <color name="background_dark">#000000</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="safe_mode_text">#FFFFFF</color>
+    <color name="bright_foreground_dark">#FFFFFF</color>
+    <color name="bright_foreground_dark_disabled">#FFFFFF</color>
+    <color name="bright_foreground_dark_inverse">#000000</color>
+    <color name="dim_foreground_dark">#BEBEBE</color>
+    <color name="dim_foreground_dark_disabled">#BEBEBE</color>
+    <color name="dim_foreground_dark_inverse">#323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#323232</color>
+    <color name="hint_foreground_dark">#808080</color>
+    <color name="bright_foreground_light">#000000</color>
+    <color name="bright_foreground_light_inverse">#FFFFFF</color>
+    <color name="bright_foreground_light_disabled">#000000</color>
+    <color name="dim_foreground_light">#323232</color>
+    <color name="dim_foreground_light_disabled">#323232</color>
+    <color name="dim_foreground_light_inverse">#BEBEBE</color>
+    <color name="dim_foreground_light_inverse_disabled">#BEBEBE</color>
+    <color name="hint_foreground_light">#808080</color>
+    <color name="perms_dangerous_grp_color">#DD6826</color>
+    <color name="perms_dangerous_perm_color">#DD6826</color>
+    <color name="search_url_text_normal">#7FA87F</color>
+    
+    
+    <item type="color" name="search_url_text_selected">@color/black</item>
+    <item type="color" name="search_url_text_pressed">@color/black</item>
+    <item type="color" name="search_widget_corpus_item_background">@color/lighter_grey</item>
+    <item type="color" name="sliding_tab_text_color_active">@color/black</item>
+    <item type="color" name="sliding_tab_text_color_shadow">@color/black</item>
+    
+    
+    <drawable name="selector_green">#0FF000</drawable> 
+    <drawable name="lightyellow">#FFFFC9</drawable>
+    <drawable name="lightgreen">#6FF666</drawable>
+    <drawable name="orange">#FF6600</drawable>
+    
+    <drawable name="list_normal">#0FF000</drawable>
+    
+</resources>

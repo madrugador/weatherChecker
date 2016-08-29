@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Checker</string>
+    <string name="conditionLabel">Condition: </string>
+	<string name="dayDateSeparator">-</string>
+	<string name="forecastLabel">5-Day Forecast</string>
+	<string name="tempSeparator">/</string>
+</resources>
