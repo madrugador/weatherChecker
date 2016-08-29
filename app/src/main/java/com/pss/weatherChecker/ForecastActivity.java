@@ -14,7 +14,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.ListView; 
 
-import com.pss.weatherChecker.models.*;
 import com.pss.weatherChecker.utils.*;
 import com.pss.weatherChecker.*;
 import android.text.*;
@@ -30,8 +29,6 @@ public class ForecastActivity extends Activity
 	private String currentDate = "";
 	private String currentCondition = "";
 	private String currentTemperature = "";
-	
-	WeatherInformation weatherInfo = new WeatherInformation();
 	
     @Override
     protected void onCreate(Bundle savedInstanceState)
